@@ -6,7 +6,7 @@
 * _Full Name_, _TAMU NetID_, _GitHubID_
 * Thomas Branyon, aggiebass2015, [tbranyon](https://tbranyon.github.io/)
 * Keaton Brown, keabro, [Keabro](https://Keabro.github.io/)
-* Karl Griesser
+* Karl Griesser, ksgriesser11, [ksgriesser11](https://ksgriesser11.github.io)
 * Kyle Malone, malokyle, [malokyle](https://malokyle.github.io/)
 * Nneamaka Njoku
 * Anthony Ramirez, agramir16, [agramir16](https://agramir16.github.io/)
@@ -14,10 +14,9 @@
 * Kaimen Walters, kaimen.walters, [kaimen-walters](https://kaimen-walters.github.io/)
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
 * Jinpeng You, stevenyou92, [stevenyou92](https://stevenyou92.github.io/)
-* Xiangdong Yu
-* Abhay Shankar Anand
+* Xiangdong Yu, henryyu8, [henryyu8](https://github.com/henryyu8)
 * Vaishali Swaminathan
-* Blade Roybal, bladero, [bladeroybal](https://github.com/Bladeroybal)
+* Blade Roybal, bladero, [bladeroybal](http://bladeroybal.github.io/)
 * Anthony Ramirez, agramir16, [agramir16] (https://github.com/agramir16)
 ## Graduate Students
 
